@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Sarah Aidaros</h1>
 
-<!--
-**Sarah-idaros/Sarah-idaros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+### 👩‍💻 About Me
 
-Here are some ideas to get you started:
+- 🎓 I'm a Mechatronics Engineering student passionate about technology that merges hardware and software.
+- 🛠 I love building smart systems using *Arduino, **ESP32, **Sensors, and **Actuators*.
+- 💡 Currently learning more about *Embedded C, **Machine Learning, and **Real-Time Systems*.
+- 🌍 Open to internships, collaborations, and remote tech projects.
+- 🌍 Based in Istanbul
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+### 🛠️ Skills
+
+- 💻 **Programming**: C, Python  
+- 📐 **Software**: AutoCAD, MATLAB, LTspice, Proteus, CodeVisionAVR 
+- 🧰 **Electronics**: Arduino, esp32, Circuit Design, Sensors  
+- 📊 **Tools**: Microsoft Office (Word, Excel, PowerPoint)
+- 🧠 **Soft Skills**: Leadership, Problem solving, Team collaboration, Fast learner  
+| Currently taking Harvard's CS50x
+---
+
+### 🧪 Projects
+
+- 🔔 **Arduino Alarm System** using PIR Motion Sensor  
+- 📍 **GPS Tracker** with Arduino & NEO-6M module  
+- 🚪 **Servo Motor Door Opener** using Ultrasonic Sensor  
+- 🚗 **Line Follower Robot** *(currently in progress)*  
+
+---
+
+### 📫 Contact Me
+
+- ✉️ Email: sara.aidross@gmail.com  
+- 💼 LinkedIn:www.linkedin.com/in/sarah-aidaros-68a15631b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app  
+
+---
+
+> “Engineering is the closest thing to magic that exists.” – Elon Musk
+
