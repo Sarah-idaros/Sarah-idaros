@@ -15,7 +15,7 @@
 ### 🛠️ Skills
 
 - 💻 **Programming**: C, Python  
-- 📐 **Software**: AutoCAD, MATLAB, LTspice, KiCad, CodeVisionAVR 
+- 📐 **Software**: AutoCAD, MATLAB, LTspice, KiCad,Proteus,Arduino IDE, CodeVisionAVR 
 - 🧰 **Electronics**: Arduino, esp32, Circuit Design, Sensors  
 - 📊 **Tools**: Microsoft Office (Word, Excel, PowerPoint)
 - 🧠 **Soft Skills**: Leadership, Problem solving, Team collaboration, Fast learner  
