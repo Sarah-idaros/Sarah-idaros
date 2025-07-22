@@ -25,7 +25,6 @@
 ### 🧪 Projects
 
 - 🔔 **Arduino Alarm System** using PIR Motion Sensor  
-- 📍 **GPS Tracker** with Arduino & NEO-6M module  
 - 🚪 **Gate Opener with Servo Motor** using Ultrasonic Sensor  
 - 🚗 **Line Follower Robot** *(currently in progress)*  
 
